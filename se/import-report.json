@@ -1,0 +1,13 @@
+{
+  "sourceCount": 2606,
+  "outputCount": 2606,
+  "issues": [
+    {
+      "sourceId": 3418,
+      "name": "Matolja",
+      "field": "fat100",
+      "sourceValue": 102.0,
+      "action": "omitted; exceeds 100 g/100 g"
+    }
+  ]
+}
