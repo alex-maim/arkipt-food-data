@@ -1,0 +1,3746 @@
+{
+  "foods": 3339,
+  "dishes": 402,
+  "bytes": 603432,
+  "sha256": "1132f3c09ed59b948a9618f5b34b340d0592d7aaf3ae418aacace7528e99a195",
+  "sources": [
+    {
+      "file": "fr.xlsx",
+      "url": "https://doi.org/10.57745/RDMHWY",
+      "license": "Etalab-2.0",
+      "sha256": "5555c572fa3735991298d832d0427788fa69a11b4fd20a5d580d58942369fbb0"
+    }
+  ],
+  "omissions": [
+    {
+      "id": "25609",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25610",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25664",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25947",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,0001",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8612",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25035",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "25058",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25211",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25504",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "25505",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "25585",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25586",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25159",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25205",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25141",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25220",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25187",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19437",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "25546",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25409",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25400",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "25415",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25501",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13004",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "15030",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20004",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20009",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20014",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20023",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20026",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20028",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20045",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20055",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20085",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20087",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20089",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20097",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20099",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20106",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20123",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20127",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20159",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20161",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20172",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20183",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20192",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20210",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20239",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20270",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20276",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20288",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20295",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20343",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20344",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20345",
+      "nutrient": "protein100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20345",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20347",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20348",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20385",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20584",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20005",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20040",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20074",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20118",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20135",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20155",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20156",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20169",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20221",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20255",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20261",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20292",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20300",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20305",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20306",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20308",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20309",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20310",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20311",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20313",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20314",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20316",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20316",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20317",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20320",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20321",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20322",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20324",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20327",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20329",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20332",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20333",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20336",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20352",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20356",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,27",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20590",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20189",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20202",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20256",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20800",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20801",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20802",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20803",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20804",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20805",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20806",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20807",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20808",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20809",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20810",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20811",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20812",
+      "nutrient": "protein100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20812",
+      "nutrient": "fat100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20813",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20814",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20815",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20816",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20817",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20818",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20819",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20820",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20821",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20822",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20826",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20827",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20828",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20829",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20830",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20831",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20833",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20834",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20835",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "54500",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20296",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20297",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "4028",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "4029",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20543",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13000",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13002",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13005",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13008",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13009",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13009",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13012",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13014",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13023",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13024",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13025",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13026",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13027",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13034",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13035",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13036",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13040",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13041",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13044",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13055",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13061",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13066",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13067",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13071",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13077",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13080",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13086",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13110",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13113",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13121",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13122",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13125",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13126",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13132",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13136",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13148",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13149",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13149",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13150",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13179",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13180",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13188",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13189",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13190",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13191",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13192",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13193",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13194",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13195",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13397",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13398",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13399",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13499",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13523",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13529",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13547",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13549",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13552",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13620",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13621",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13997",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13119",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13153",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13175",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13175",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13203",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13704",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13705",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13706",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13707",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13708",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13712",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13714",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13715",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13716",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13717",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13718",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13730",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13400",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13401",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13402",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13403",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13404",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13405",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13406",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13407",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13408",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13409",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13410",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13411",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13412",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13413",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13414",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13415",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13416",
+      "nutrient": "protein100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13416",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13417",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13418",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13419",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13420",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13425",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13426",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13427",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13428",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13429",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13430",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13431",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13432",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13433",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13434",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13435",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13436",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13437",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13438",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13439",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13440",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "13201",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13202",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "15015",
+      "nutrient": "fat100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "15015",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "9107",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "9124",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "9125",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "9615",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "9901",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "9901",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "96781",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "6207",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "36004",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "36031",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,55",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "21007",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "40004",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,05",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "40601",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,45",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "40701",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "6150",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "36311",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "28700",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28900",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,19",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28907",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,42",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28911",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28800",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28811",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28812",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28845",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30302",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30304",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30102",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30125",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30134",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30151",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30152",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30153",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30154",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30177",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30750",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30766",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30778",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30778",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8201",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8026",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8109",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8380",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "8501",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8504",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8512",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8551",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8705",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8742",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8800",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "8801",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "28505",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30350",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30701",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30732",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20337",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20338",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25997",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26003",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26015",
+      "nutrient": "carbs100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26019",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26020",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26022",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26023",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26024",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26025",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26026",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26033",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26041",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26059",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26060",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26073",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26081",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26093",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26120",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26136",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26192",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26211",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26217",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26234",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26248",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26998",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26999",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27000",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27001",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27004",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27005",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27006",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27007",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27014",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27015",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27031",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26001",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26006",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,17",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26018",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26018",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,2",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26036",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26036",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,25",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26042",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26043",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26043",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,2",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26047",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26055",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26057",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26058",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26063",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26075",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26076",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26079",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26083",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26085",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26088",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26095",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26099",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26104",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26128",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26130",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26135",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26153",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26154",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26201",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26206",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26208",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26210",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26213",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26214",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26219",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26233",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26235",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27017",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27019",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27021",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "27025",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "10038",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "10074",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "8080",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "10012",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "25998",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26000",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26005",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26186",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26239",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "26693",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19010",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "19270",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "19026",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19538",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,05",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19550",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19581",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19582",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19593",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19594",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19669",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19724",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19727",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19728",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19805",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19638",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19643",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19644",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19645",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,23",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19656",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,37",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19660",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19663",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19664",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,15",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19707",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39249",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39233",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19692",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20923",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20927",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12001",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12003",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12006",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12010",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12015",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12022",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12029",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12031",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12036",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12037",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12037",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12038",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12038",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12040",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12041",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12042",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12045",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12049",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12052",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12053",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12064",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12810",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12812",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12815",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12820",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12824",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12832",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12500",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12521",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12522",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12523",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12524",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12526",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12099",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12109",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12110",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12112",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12115",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12720",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12721",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12722",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12724",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12729",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12735",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12736",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12738",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12740",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12741",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12743",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12749",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12755",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12760",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12776",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12776",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12816",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12307",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12311",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12355",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "12059",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12061",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12067",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12073",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12342",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "12768",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "19584",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19585",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "1027",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19403",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,2",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19410",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19415",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19420",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19433",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "76060",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "76079",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "2011",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,8",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2011",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2023",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2035",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2035",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2039",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2048",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2048",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2050",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2050",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2052",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2381",
+      "nutrient": "protein100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2009",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2009",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2010",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2010",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2062",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2062",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "2365",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18001",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18012",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18013",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18021",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18024",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18025",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18025",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18030",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18051",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,43",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18067",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18068",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18294",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18316",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18316",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18340",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18340",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18344",
+      "nutrient": "protein100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18344",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18352",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18011",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18011",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18107",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18110",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18111",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18899",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18904",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18907",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "29209",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18004",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18071",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18104",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18106",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18161",
+      "nutrient": "protein100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18162",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18017",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18017",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18059",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "18102",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "5210",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5210",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,61",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5214",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5214",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5000",
+      "nutrient": "fat100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5003",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,18",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5007",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5008",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,05",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5009",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5009",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5010",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,05",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5021",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5022",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "5030",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "1010",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "1024",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "1013",
+      "nutrient": "protein100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "1022",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "1022",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11506",
+      "nutrient": "carbs100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11506",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "31087",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "31089",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "31052",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "30888",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "30889",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "31095",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "7742",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "24520",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,25",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "23007",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "23021",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "23300",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "23301",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "23455",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "23801",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39509",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39515",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39517",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39518",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "39530",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16412",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1,04",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16414",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,06",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16416",
+      "nutrient": "protein100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16713",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16050",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "17270",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "17440",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "17800",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "17850",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "17850",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "16588",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "16593",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11104",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11205",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11212",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11216",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11216",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11217",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11111",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11140",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11192",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11199",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11004",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11013",
+      "nutrient": "fiber100",
+      "sourceValue": "< 1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11040",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11055",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11090",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11091",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,6",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11220",
+      "nutrient": "carbs100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13032",
+      "nutrient": "carbs100",
+      "sourceValue": "< 0,1",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11041",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11221",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11303",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20918",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20918",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20919",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20919",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20924",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20924",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "31108",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "42200",
+      "nutrient": "fiber100",
+      "sourceValue": "traces",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11057",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11000",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11069",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11092",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11306",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11095",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "11085",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20989",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20997",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "42003",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "11214",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20904",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "20912",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19863",
+      "nutrient": "fiber100",
+      "sourceValue": "-",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13159",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13159",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13160",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13160",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13163",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13169",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13171",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13172",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "19013",
+      "nutrient": "fiber100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "19015",
+      "reason": "energy missing or censored"
+    },
+    {
+      "id": "20246",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13157",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13158",
+      "nutrient": "fat100",
+      "sourceValue": "< 0,5",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13164",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13165",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    },
+    {
+      "id": "13166",
+      "nutrient": "fiber100",
+      "sourceValue": "< 3",
+      "reason": "missing, censored or invalid; not zero"
+    }
+  ]
+}

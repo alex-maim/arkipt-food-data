@@ -1,0 +1,15 @@
+{
+  "foods": 1381,
+  "dishes": 57,
+  "bytes": 290234,
+  "sha256": "d5b7209ff72959986f1aa6feb3af9407fff4ef3f144f288c6bed0bc34ec60dd7",
+  "sources": [
+    {
+      "file": "dk.xlsx",
+      "url": "https://doi.org/10.11583/DTU.29500682",
+      "license": "CC-BY-4.0",
+      "sha256": "6b1952a35df3c0d4d7b2699ae0a3e377add42b231108309329b40256ef600e5e"
+    }
+  ],
+  "omissions": []
+}
