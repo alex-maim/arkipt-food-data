@@ -1,8 +1,8 @@
 {
   "foods": 2118,
-  "dishes": 127,
-  "bytes": 634431,
-  "sha256": "ad4d8d565f6743f4b236fb46d54a56ec7926fb6586fffa009e78231e414dac9d",
+  "dishes": 143,
+  "bytes": 634639,
+  "sha256": "ff5cdfbd9e17fbbe8f6c70e6bf94b4610f7268bfd7f054d68edab0fbd95053b5",
   "sources": [
     {
       "file": "no-nb.json",
