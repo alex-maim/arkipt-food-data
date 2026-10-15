@@ -21,3 +21,8 @@ https://raw.githubusercontent.com/alex-maim/arkipt-food-data/main/catalogue.json
 It validates the complete package, rejects unsupported schemas and older versions, and stores a local copy for offline searches. Saved meals and calorie entries retain their existing snapshots. No personal data is uploaded.
 
 Maintainers: update and verify source facts in the application workspace, then run `node scripts/export_food_catalogue.ts VERSION YYYY-MM-DD` with a strictly increasing version. Review the resulting food-data files and publish those files only to this repository. Do not change a published package without incrementing its version. The app does not crawl manufacturers or automatically claim fresh Fineli data.
+
+
+## Additional national datasets (2026-10-15)
+
+Independent, optional packages: [Norway](no/README.md) (2,118 foods), [Switzerland](ch/README.md) (1,245), [United Kingdom](gb/README.md) (2,816), [Australia](au/README.md) (1,588). Each directory contains its own catalogue.json, provenance/omission report and source terms. These packages have separate licences; the Fineli licence does not cover them. In particular the Australian derivative is under the FSANZ Data User Licence Agreement, supplied in au/LICENSE.txt, with its required limitations and Australian-data notice. Food data is freely redistributable under its applicable terms independently of the application.

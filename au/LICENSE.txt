@@ -1,0 +1,125 @@
+FSANZ Data User Licence Agreement
+Retrieved 2026-10-15 from https://www.foodstandards.gov.au/science-data/monitoringnutrients/afcd/datauserlicenceagreement
+Original agreement based on https://creativecommons.org/licenses/by-sa/3.0/au/
+
+Download Australian Food Composition files by reading and accepting the terms and conditions below.
+Food composition publications are licensed by Food Standards Australia New Zealand (FSANZ) under a licence based on a Creative Commons
+Attribution-ShareAlike 3.0 Australia
+licence.
+You are free to copy, communicate and adapt the Australian Food Composition Database, as long as you correctly attribute the work to FSANZ, distribute any derivative work (i.e. new work based on this work) only under this licence, and abide by the additional term for use of the Database. FSANZ reserves the right to set out the terms and conditions for the use of the Database.
+Data User Licence Agreement
+Licence
+The Work (as defined below) is provided under the terms of this Licence. The Work is protected by copyright and/or other applicable law. Any use of the Work other than as authorised under this licence or copyright law is prohibited.
+By exercising any rights to the Work provided here, You accept and agree to be bound by the terms of this Licence. The Licensor grants You the rights contained here in consideration of your acceptance of such terms and conditions.
+1. Definitions
+In this Licence Agreement, the following definitions are used.
+AUSNUT 2007 means the set of files that enables food, dietary supplement and nutrient intake estimates to be made from the 2007 Australian Health Survey.
+AUSNUT 201113 means the set of files that enables food, dietary supplement and nutrient intake estimates to be made from the 201113 Australian Health Survey.
+Australian Dietary Guidelines Database means the database which supports the comparison of intakes from the 2011-13
+Australian Health Survey with the recommendations of the 2013 Australian Dietary Guidelines (ADG).
+Australian Food Composition Database means a reference database that contains data on the nutrient content of Australian foods, other than AUSNUT 2007, AUSNUT 201113, the Australian Dietary Guidelines Database; the Nutrition Panel Calculator Database; and NUTTAB 2010.
+Collection means the Work in its entirety in unmodified form along with one or more other separate and independent works, assembled into a collective whole. A Collection may, for example, include a periodical, encyclopaedia or anthology. A Collection will not be considered a Derivative Work for the purposes of this Licence Agreement.
+Derivative Work means material in any form that is created by editing, modifying or adapting the Work, or a substantial part thereof. Derivative Works may, for example, include a translation, adaptation, abridgment, condensation, or any other form in which the Work may be transformed or adapted, except that a Collection will not be considered a Derivative Work for the purpose of this Licence Agreement.
+Distribute means to make available to the public by any means, including publication, electronic communication, or broadcast. Food Composition Database means any one or more of the following: an Australian Food Composition Database; the Australian Dietary Guidelines Database; AUSNUT 2007; AUSNUT 2011-2013; the Nutrition Panel Calculator Database; and NUTTAB 2010.
+Licence Agreement means this licence agreement.
+Licensor means Food Standards Australia New Zealand or such other department or agency having responsibility for this Licence Agreement from time to time.
+Limitation of Data Statement means the following statement
+There are limitations associated with food composition databases. Food composition data used in the database or databases may represent an average of the nutrient content of a particular sample of foods and ingredients, determined at a particular time. The nutrient composition of foods and ingredients can vary substantially between batches and brands because of a number of factors, including changes in season, processing practices and ingredient source, and methods of calculation.
+Nutrition Panel Calculator Database means the set of files that contain nutrient data for foods, ingredients for energy and the six mandatory nutrients and that is made available to assist food manufacturers calculate the average nutrient content of their food products and prepare a nutrition information panel
+NUTTAB 2010 means the reference database that contains data on the nutrient content of Australian foods version published in 2010.
+Original Author means the individual, individuals, entity or entities who created the Work.
+Reproduce means to make a copy of the Work in any material form (e.g. storage in digital form).
+Website means the website designated by the Licensor where the databases are able to be accessed.
+Work means the material in any of the Food Composition Databases, protected by copyright, which is offered under the terms of this Licence Agreement.
+'You' means an individual or entity exercising rights under this Licence who has not previously violated the terms of this Licence with respect to the Work, or who has received express permission from the Licensor to exercise rights under this Licence despite a previous violation.
+2. Fair Dealing and Other Rights
+Nothing in this Licence Agreement is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions under copyright law or any other applicable laws.
+3. Licence Grant
+3A. Grant of Rights
+Provided that the terms set out in this Licence Agreement are satisfied, the Licensor grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) licence to exercise the following rights:
+a. reproduce the Work;
+b. incorporate the Work into one or more Collections;
+c. reproduce the Work as incorporated in any Collection;
+d. create and reproduce one or more Derivative Works; and
+e. distribute the Work, a Derivative Work or the Work as incorporated in any Collection.
+3B. Media and Formats
+The above rights may be exercised in any media or format whether now known or hereafter created. They include the right to make modifications that are technically necessary to exercise the rights in other media and formats.
+3C. Other Rights Reserved
+All rights not expressly granted by the Licensor are reserved. The Licensor waives the right to collect royalties for any exercise by You of the rights granted under this Licence Agreement.
+4. Restrictions
+The Licence Agreement granted above is limited by the following restrictions.
+4A. Restrictions on distribution of the Work
+a. You may distribute the Work only under the terms of this Licence Agreement.
+b. You must include:
+i. a copy of, or the Uniform Resource Identifier (such as a web link) for, this Licence Agreement;
+ii. the Limitation of Data Statement; and
+iii. a statement that the Work is based on Australian data and Australia data may not be appropriate for use in other countries, with every copy of the Work You distribute.
+c. You must not offer or impose any terms on the Work that restrict this Licence Agreement or the ability of a recipient of the Work from You to exercise the rights granted to them by this Licence Agreement.
+d. You are not granted the right to sublicense the Work. The rights of recipients of the Work from You are governed by clause 11.
+e. You must keep intact all notices that refer to this Licence Agreement and to the disclaimer of warranties with every copy of the Work You distribute.
+f. When You distribute the Work, You must not impose any technological measures on it that restrict the ability of a recipient of the Work from You to exercise the rights granted to them by this Licence Agreement.
+g. For the avoidance of doubt, while clause 4A applies to the Work as incorporated into a Collection, it does not require other material within the Collection, or the Collection apart from the Work itself, to be made subject to this Licence Agreement.
+4B. Restrictions on Distribution of Derivative Works
+a. You may only distribute a Derivative Work if You apply this Licence Agreement to it.
+b. For the avoidance of doubt, while clause 4B applies to any Derivative Work as incorporated into a Collection, it does not require other material within the Collection, or the Collection as a whole, to be made subject to the terms of this Licence Agreement.
+4C. Attribution and Notice Requirements
+a. When You distribute the Work or any Derivative Work or Collection, You must keep intact all copyright notices for the Work.
+b. When You distribute the Work or any Derivative Work or Collection, You must provide, in a manner reasonable to the medium or means You are using:
+i. the name of the any other party that the Original Author or Licensor has requested be attributed (such as in the FSANZ copyright notice or terms of use). In this clause 4C, these parties are referred to as 'Attribution Parties';
+ii. the title of the Work (if provided); and
+iii. to the extent reasonably practicable, any Uniform Resource Identifier (such as a web link) that the Licensor specifies should be associated with the Work that refers to the copyright notice or licensing information for the Work.
+c. For any Derivative Work You distribute, You must take reasonable steps to clearly identify that changes were made to the Work. For example, a translation could be marked 'The original work was translated from English to Spanish'.
+d. In the case of a Derivative Work or Collection, the above attribution should, at a minimum, appear as part of any credits for other contributing authors and be as prominent as the credits for those other authors.
+e. You must, to the extent practicable, remove the above attribution from any Collection or Derivative Work if requested to do so by the Licensor or Original Author.
+f. For the avoidance of doubt, You may only use the credit required by this clause 6C for the purpose of attribution in the manner set out above. By exercising Your rights under this Licence, You must not assert or imply:
+i. any connection between the Original Author, Licensor or any other Attribution Party and You or Your use of the Work; or
+ii. sponsorship or endorsement by the Original Author, Licensor or any other Attribution Party of You or Your use of the Work, without their separate, express prior written permission.
+g. Nothing in this licence applies to or permits the use of the FSANZ logo or the Commonwealth coat of arms.
+4D. Moral Rights
+Moral rights remain unaffected to the extent they are recognised and non-waivable at law. In this clause 4D, 'moral rights' means the personal rights granted by law to the Original Author of a copyright work. For example, Part IX of the Copyright Act 1968 (Cth) grants authors the right of integrity of authorship, the right of attribution of authorship, and the right not to have authorship falsely attributed.
+5. Third party data
+a. The databases contain third party data and material.
+b. The copyright owners of that data and material have agreed to the Licensor making that data and material publicly available through this Licence Agreement.
+c. The Licensor makes no warranty that such use will not infringe any third party's rights, including intellectual property rights.
+6. Privacy
+a. You acknowledge that:
+i. the Licensor collects, stores and discloses personal information provided to the Licensor in accordance with the Privacy Act 1988 (Cth) and with the Licensors Privacy Policy located on the Licensors website:
+Food Standards Australia New Zealand
+(Privacy Policy); and
+ii. the Licensor also collects and records the personal information You provide in order to be able to respond to your inquiry in relation to any of the databases.
+7. Representations, Warranties and Disclaimer
+a. Except as expressly stated in this Licence Agreement or otherwise agreed to by the parties in writing and to the full extent permitted by applicable law, the Licensor offers the Work 'as-is' and makes no representations, warranties or conditions of any kind concerning the Work, express, implied, statutory or otherwise. This includes, without limitation, any representations, warranties or conditions regarding:
+i. the contents or accuracy of the Work;
+ii. title, merchantability, or fitness for a particular purpose;
+iii. non-infringement;
+iv. the absence of latent or other defects; or
+v. the presence or absence of errors, whether or not discoverable.
+b. The Trade Practices Act 1974 (Cth) and the corresponding State and Territory fair trading legislation imply certain warranties and conditions in certain circumstances, such as the right to supply or fitness for purpose of goods or services supplied to a consumer. Clause 7(a) cannot and is not intended to exclude, restrict or modify these warranties, if held applicable.
+8. Limit of Liability
+a. To the full extent permitted by applicable law, and except for any liability arising from contrary agreement, in no event will the Licensor be liable to You on any legal basis (including without limitation, negligence) for any loss or damage whatsoever, including (without limitation):
+i. loss of production or operation time, loss, damage or corruption of data or records; or
+ii. loss of anticipated savings, opportunity, revenue, profit or goodwill, or other economic loss; or
+iii. any special, incidental, consequential, punitive or exemplary damages arising out of or in connection with this Licence Agreement or the use of the Work, even if the Licensor has been advised of the possibility of such damages.
+b. If applicable legislation implies warranties or conditions, or imposes obligations or liability on the Licensor in respect of this Licence Agreement that cannot be wholly or partly excluded, restricted or modified, the Licensors liability is limited, to the full extent permitted by the applicable legislation, at its option, to replacement of the material obtained from the food composition database or correction of defects in that material.
+c. The Trade Practices Act, and the corresponding State and Territory fair trading legislation, restrict the limitation of liability in certain circumstances, such as a contract for the supply of goods or services of a kind ordinarily acquired for personal, domestic, or household use. Clauses 8(a) and (b) cannot and are not intended to apply in circumstances where it is prohibited by law.
+9. Termination
+This Licence Agreement and the rights granted to You under this Licence Agreement shall terminate automatically upon any breach by You of the terms of the Licence Agreement. However, individuals or entities who have received a Derivative Work or a Collection from You pursuant to this Licence Agreement, will not have their licences terminated provided they remain in full compliance with those licences. Clauses 3 to 5, 7 to 15, 17 and 18 shall survive any termination of this Licence Agreement.
+10. Licensors Rights Retained
+Subject to the above terms, the Licence Agreement granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding this, the Licensor reserves the right to release the Work under different licence terms or to stop distributing the Work at any time. However, any such release will not serve to withdraw this Licence Agreement (or any other licence that has been granted under the terms of this Licence Agreement), and this Licence Agreement will continue in full force and effect unless terminated as stated above.
+11. Licence Grant to Recipients of the Work from You
+Each time You distribute the Work, a Derivative Work or a Collection, the Licensor offers the recipient a licence to the Work on the same terms as are granted to You under this Licence Agreement.
+12. Severability
+If any provision of this Licence Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Licence Agreement. Without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+13. Waivers and Consents
+No term of this Licence Agreement shall be deemed waived and no breach consented to unless such waiver or consent is in writing and signed by the relevant party.
+14. Variation
+No variation of this Licence Agreement is binding unless agreed between the parties.
+15. Assignment, novation and other dealings
+You must not assign or novate this Licence Agreement or otherwise deal with the benefit of it or a right under it, or purport to do so, without the Licensors prior written consent, which may be withheld at the Licensors absolute discretion.
+16. Capacity
+You warrant to the Licensor that You have legal capacity to enter into, and be bound by the terms and conditions of, this Licence Agreement.
+17. Entire Agreement
+This Licence Agreement constitutes the entire agreement between the parties. To the full extent permitted by law, there are no understandings, agreements or representations with respect to the Work not specified here. The Licensor shall not be bound by any additional provisions that may appear in any communication from You. This Licence Agreement may not be modified without the written agreement of the Licensor and You.
+18. Governing Law
+The construction, validity and performance of this Licence Agreement shall be governed by the laws in force in the Australian Capital Territory, Australia and the parties agree to submit to the jurisdiction of the courts and tribunals of the Australian Capital Territory.
+Note: If you are agreeing to this Licence not as an individual but on behalf of your organisation, then 'You' also means your organisation, and you are binding your organisation to this Licence and represent and warrant that you have all necessary authority to do so.

@@ -1,0 +1,34 @@
+{
+  "foods": 2118,
+  "dishes": 127,
+  "bytes": 634431,
+  "sha256": "ad4d8d565f6743f4b236fb46d54a56ec7926fb6586fffa009e78231e414dac9d",
+  "sources": [
+    {
+      "file": "no-nb.json",
+      "url": "https://www.matvaretabellen.no/api/nb/foods.json",
+      "license": "NLOD",
+      "sha256": "7c7ebb52109433ea15032a29f495843a5da229313bbcf4a4fe7ebcc45b9c9b33"
+    },
+    {
+      "file": "no-en.json",
+      "url": "https://www.matvaretabellen.no/api/en/foods.json",
+      "license": "NLOD",
+      "sha256": "89b8f5f494a79731bf7d8d98065ee66c55263ccdbb519e7c87941218be6c948d"
+    }
+  ],
+  "omissions": [
+    {
+      "id": "10.135",
+      "reason": "missing or invalid energy; omitted food"
+    },
+    {
+      "id": "10.137",
+      "reason": "missing or invalid energy; omitted food"
+    },
+    {
+      "id": "12.115",
+      "reason": "missing or invalid energy; omitted food"
+    }
+  ]
+}

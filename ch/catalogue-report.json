@@ -1,0 +1,205 @@
+{
+  "foods": 1245,
+  "dishes": 62,
+  "bytes": 261700,
+  "sha256": "a85f84c3b3b3ca6ff767dedf6878265a79707d73c0e1687c4d26bf7a88339fea",
+  "sources": [
+    {
+      "file": "ch.xlsx",
+      "url": "https://naehrwertdaten.ch/wp-content/uploads/2026/07/Swiss_food_composition_database.xlsx",
+      "license": "FSVO data reuse terms; attribution required",
+      "sha256": "323bae2eecd639d2c3b3bf3797d30b1426ccb0253fb62810f522778b38089196"
+    }
+  ],
+  "omissions": [
+    {
+      "id": "13449",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13455",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "817",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13395",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "668",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "665",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "664",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14151",
+      "nutrient": "protein100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13460",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "983",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "499",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "756",
+      "nutrient": "carbs100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "669",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "651",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13959",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14206",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13883",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "426",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "208",
+      "nutrient": "protein100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "688",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "492",
+      "nutrient": "carbs100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "482",
+      "nutrient": "carbs100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "1539",
+      "reason": "unsupported matrix unit"
+    },
+    {
+      "id": "14149",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "507",
+      "nutrient": "carbs100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14281",
+      "nutrient": "fat100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13924",
+      "nutrient": "carbs100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "770",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14120",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14119",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13437",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14090",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14122",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14121",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14003",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13939",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "14171",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    },
+    {
+      "id": "13454",
+      "nutrient": "fiber100",
+      "reason": "missing, trace or invalid; not zero"
+    }
+  ]
+}
